@@ -1,0 +1,5 @@
+name = Better Taxonomy Autocomplete
+description = Set field-level permissions to create, update or view fields.
+package = Other
+core = 7.x
+files[] = better_taxonomy_autocomplete.module
