@@ -8,6 +8,7 @@ function better_taxonomy_autocomplete_menu_alter(&$items) {
   $autocomplete_paths = array(
     'taxonomy/autocomplete',
     'autocomplete_deluxe/taxonomy',
+    'taxonomy_single_tag/autocomplete',
   );
   drupal_alter('better_taxonomy_autocomplete_page_callbacks', $autocomplete_paths);
 

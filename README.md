@@ -13,7 +13,7 @@ When this module is enabled, autocomplete results for taxonomy fields will be so
 INSTALLATION
 ------------
 
-Download and enable module.
+[Download or clone](https://github.com/patdunlavey/better_taxonomy_autocomplete) and enable module.
 
 CONFIGURATION
 -------------
@@ -24,10 +24,11 @@ DEVELOPERS
 ----------
 See better_taxonomy_autocomplete.api.php for hooks that may be implemented to alter the behavior of this module.
 
-SPONSORS
---------
+## Maintainers/Sponsors
 
-Born-Digital
+Current maintainers:
+
+* [Pat Dunlavey](https://github.com/patdunlavey/better_taxonomy_autocomplete)
 
 
 
